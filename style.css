@@ -1,0 +1,71 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(netflix-background-image.jpg);
+    
+    background-size: cover;
+}
+
+.companyname{
+    font-size: 40px;
+    color: red;
+    padding-left: 150px;
+    margin-top: 12px;
+   
+}
+.sidebar{
+    display: inline-block;
+    position: relative;
+    left: 1030px;
+    bottom:70px
+}
+.side{
+    font-size: 18px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+.signin{
+    padding: 5px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(255, 0, 0);
+}
+.center{
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+.price{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    position: relative;
+    bottom: 80px;
+} 
+.desc{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    bottom: 90px;
+    text-align: center;
+}
+.search{
+    text-align: center;
+    position: relative;
+    bottom: 80px;
+    
+}
+.size{
+    width: 400px;
+    height: 48px;
+    padding: 15px;
+}
+.getstarted{
+    background-color: red;
+    color: #ffff;
+    padding: 15px;
+
+}
